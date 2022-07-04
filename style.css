@@ -1,0 +1,251 @@
+  body {
+    font-family: 'Gilroy';
+    font-weight: normal;
+    font-style: normal;
+    background-color: #F5F7FA;
+}
+.main-container {
+    display: flex;
+    flex-direction:column;
+    width: 1445px;
+    height: 4759px;
+    background-color: #F5F7FA;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+/* Sidebar section */
+.sidebar-section {
+    display: flex;
+}
+.sidebar-first{
+    font-size: 18px;
+    line-height: 22px; 
+    color: #070707;
+    margin-left: 250px;
+    
+}
+.sidebar-second {
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #828282;
+    margin-left: 150px
+}
+.sidebar-third {
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #828282;
+    margin-left: 150px
+}
+.sidebar-four {
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #828282;
+    margin-left: 150px
+}
+.sidebar-five {
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #828282;
+    margin-left: 150px
+}
+.sidebar-section-line {
+    display: flex;
+}
+.sidabar-family-name {
+    font-size: 47.3392px;
+    line-height: 59px;
+    color: #070707;
+    text-align: left;
+    margin-left: 250px;
+}
+.sidebar-text {
+    font-size: 18px;
+    line-height: 22px;
+    color: #070707;
+    text-align: center;
+    margin: 120px 350px 30px 300px;
+}
+.sidebar-RU-pic {
+    font-size: 16px;
+    line-height: 20px;
+    color: #828282;
+    text-align: right;
+}
+.ru-and-eng-pic {
+    margin-right: 200px;
+    writing-mode: vertical-rl;
+}
+.sidebar-divider {
+    color: #070707;
+}
+.sidebar-ENG-pic {
+    color: #070707;
+}
+.sidebar-image {
+    width: 943.61px;
+    height: 387px;
+    margin-left: 250px;
+}
+.contacts-title {
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    color: #070707;
+}
+.contacts-text {
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+}
+.skills-title {
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    color: #070707;
+}
+.skills-text {
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #070707;
+}
+.icon-sections {
+    display: flex;
+}
+.adobe-skill {
+    margin-left: 50px;
+}
+.illustrator-skill {
+    margin-left: 165px;
+}
+.effects-skill {
+    margin-left: 165px;
+}
+.figma-skill {
+    margin-left: 165px;
+}
+.icon-names {
+    display: flex;
+}
+.adobe-name {
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #828282;
+    margin-left: 40px;
+}
+.adobe-illustrator-name {
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #828282;
+    margin-left: 140px;
+}
+.adobe-after-effects-name {
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #828282;
+    margin-left: 140px;
+}
+.figma-text {
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #828282;
+    margin-left: 160px;
+}
+.all-skill-stars {
+    display: flex;
+}
+.skill-first-stars {
+    margin-left: 60px;
+}
+.skill-second-stars {
+    margin-left: 190px;
+}
+.skill-third-stars {
+    margin-left: 190px;
+}
+.skill-four-stars {
+    margin-left: 180px;
+}
+.portfolio-name {
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    color: #070707;
+}
+.first-image {
+    width: 936.24px;
+    height: 510px;
+    left: 257.71px;
+    top: 2087px;
+    
+}
+.first-image-text {
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #070707;
+}
+.second-image {   
+    width: 936.24px;
+    height: 522px;
+    left: 256.89px;
+    top: 2763px;
+}
+.second-image-text {
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #070707;
+}
+.third-image {
+    width: 936.24px;
+    height: 522px;
+    left: 252.7px;
+    top: 3451px;
+}
+.third-image-text {
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #070707;
+}
+.contacts-section-name {
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    color: #070707;
+}
+.contacts-text {
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #070707;
+}
+.contacts-pic {
+    height: 100px;
+    width: 250px;
+    background: #070707;
+    margin-left: 350px;
+
+}
+.contact-links {
+    height: 50px;
+    width: 450px;
+    margin-left: 250px;
+}
+.link-names {
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #828282;
+}
